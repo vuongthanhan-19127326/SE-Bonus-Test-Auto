@@ -131,4 +131,184 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/I2/View a full notification</testCaseId>
    </testCaseLink>
+   <testCaseLink>
+      <guid>93423ad2-ec79-4c71-b10c-7e356ec3fc44</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Question bank/Add a essay question in question bank</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>538e8a4c-7e83-46fc-a803-31fc70086081</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Question bank/Add a new multiple choice question</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3e0a8873-6093-4cff-bcfb-0fd8377a6472</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Question bank/Add a new Short answer question</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b9ea0608-1e28-4ad0-9c5e-aa9d768246af</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Question bank/Add a numerical question</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9c1b79cd-8e9c-49ca-a231-2634b4707091</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Question bank/Add a True False question</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ca5a5c39-cc25-468a-84c7-34fc722bb074</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Question bank/Duplicate a essay question</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5f4b1505-9b21-40b1-be4e-75484648a25c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Question bank/Edit a essay question</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9941d8bf-d3a2-433f-b470-f16edffe18a8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Question bank/Preview a question in question bank</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>33db7296-9dfc-417b-930b-a8b156587848</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Question bank/Export essay quesion as XML</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>74a6baa2-416d-4e00-b429-57600c55b719</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Question bank/Delete a question in question bank</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f09b5fbb-3d05-43cf-a8f6-380f7e2f5bf7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Quiz/Preview a quiz by teacher</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7adc368b-d883-43ff-9298-691ffb6732c0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Quiz/Attempt quiz by student</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9558bfc0-83a0-4a87-8b76-40de6dcff20c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Quiz/Add new question to quiz (edit quiz)</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f7fa506d-a71b-474d-9085-bc88365c6af5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Deadline/View a deadline by student</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2f397cab-a458-4f70-8282-49530ee7f10e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Deadline/Submit assignment in a deadline by student</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>08c0f420-e137-487e-a2ce-4139300d10b5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Deadline/Edit a submission in deadline by student</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cd0ca0a2-9394-4dcc-ac3d-7094d58f7cab</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Deadline/Download the submission in deadine by student</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1812462d-9fc8-47b6-bfe3-b4ed57f7628d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Deadline/Cancel remove a submission in deadline</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f0166c03-e196-45e0-8590-6e3f4f06d51d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Deadline/Remove the submission in a deadline by student</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a5108250-8335-4e7f-94b7-1aafb57a5f84</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/I1/Cancel add discussion topic</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>49fc7f1f-0a2c-44ec-92d2-23ebea641b88</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Lesson/View a lesson by student</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4a864f0e-d582-4410-98cc-94d1d0579abb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Lesson/Add new question in a lesson</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>90e039fa-379c-47c8-85e7-672aa99d51e1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Lesson/Edit a question in a lesson</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cc4f39ac-de5d-4e57-bfe3-18b17bbb5404</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Lesson/Move a question in a lesson to other page</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>06f388b3-484d-4e7d-a809-f4acd89b3dec</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Lesson/Preview a question in a lesson</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>361231bb-0694-4632-9f63-14edab678f59</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Lesson/Sent email have graded a lesson to a student</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8bd0ec03-296e-4d53-8219-cc9cc20b951b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Lesson/Sent email have graded essay to all student</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a3c59a08-8e2e-4a39-9947-e1f3492b58b5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/I2/View grade of list course</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b7b71cf3-bc7e-40d0-a0c6-fb94c3783f3a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/I2/Teacher view grade of a course</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>898a455f-1513-470e-9c70-84174b1557eb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/I2/Student view grade of a course</testCaseId>
+   </testCaseLink>
 </TestSuiteEntity>
